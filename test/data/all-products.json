@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ramen",
+    "description": "Soup is delicious",
+    "price": 1000
+  },
+  {
+    "name": "Jin Ramen",
+    "description": "Soup is delicious",
+    "price": 2000
+  },
+  {
+    "name": "Sin Ramen",
+    "description": "Soup is delicious",
+    "price": 3000
+  }
+]
